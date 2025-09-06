@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224230284
+# Name: SWETHA K
+# Date: 06.09.2025
 
 
 # AIM:
@@ -48,9 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
+<img width="895" height="800" alt="Screenshot 2025-09-06 142743" src="https://github.com/user-attachments/assets/f29bc618-ddcb-4d9e-8805-865bc441ad9c" />
 
 
 
@@ -68,6 +66,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1213" height="940" alt="Screenshot 2025-09-06 183618" src="https://github.com/user-attachments/assets/e797518a-e31c-438c-8dd2-2a181612922c" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -76,6 +76,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="864" height="774" alt="Screenshot 2025-09-06 143549" src="https://github.com/user-attachments/assets/5fc9c153-2f63-428d-a25a-5b57dcc3f674" />
 
 
 
@@ -88,10 +89,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-
-
-
-
+<img width="832" height="532" alt="Screenshot 2025-09-06 143047" src="https://github.com/user-attachments/assets/64570bf3-f711-4d91-b4ed-5a97d014dedc" />
 
 
 # ACTIVITY DIAGRAM:
@@ -106,8 +104,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
+<img width="1133" height="986" alt="Screenshot 2025-09-06 141901" src="https://github.com/user-attachments/assets/6907cf12-ac17-42c9-aa09-b09cb293728b" />
 
 
 # SEQUENCE DIAGRAM
@@ -129,7 +126,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
-
+<img width="1173" height="985" alt="Screenshot 2025-09-06 134558" src="https://github.com/user-attachments/assets/0404537b-f74b-401f-80a5-52ad8386427f" />
 
 
 # RESULT
